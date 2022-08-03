@@ -1,0 +1,6 @@
+[submodule "RocketEngineApp"]
+	path = RocketEngineApp
+	url = git@github.com:renatojobal/RocketEngineApp.git
+[submodule "engine"]
+	path = engine
+	url = git@github.com:renatojobal/engine.git
